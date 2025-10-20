@@ -1,0 +1,34 @@
+
+a. Các giai đoạn chính và mục tiêu
+
+Yêu cầu (Requirements)
+
+Mục tiêu: Xác định và phân tích các yêu cầu chức năng và phi chức năng của hệ thống từ phía khách hàng.
+
+Phân tích hệ thống (System Analysis)
+
+Mục tiêu: Hiểu rõ hệ thống cần xây dựng, xác định các chức năng chi tiết, luồng xử lý và các ràng buộc kỹ thuật.
+
+Thiết kế (System Design)
+
+Mục tiêu: Lập kế hoạch kiến trúc tổng thể và chi tiết cho phần mềm, bao gồm cấu trúc dữ liệu, luồng xử lý, giao diện,...
+
+Lập trình (Implementation / Coding)
+
+Mục tiêu: Chuyển thiết kế thành mã nguồn bằng ngôn ngữ lập trình cụ thể.
+
+Kiểm thử (Testing)
+
+Mục tiêu: Phát hiện lỗi, đảm bảo phần mềm hoạt động đúng theo yêu cầu và thiết kế ban đầu.
+
+Triển khai và bảo trì (Deployment & Maintenance)
+
+Mục tiêu: Cài đặt phần mềm cho người dùng cuối, sửa lỗi, cập nhật, nâng cấp và bảo trì lâu dài.
+b. Ví dụ về hiện vật (artifact) của từng giai đoạn
+Giai đoạn	Hiện vật / Sản phẩm cụ thể
+Yêu cầu	Tài liệu đặc tả yêu cầu phần mềm (Software Requirements Specification – SRS)
+Phân tích hệ thống	Mô hình ca sử dụng (Use Case Diagram), sơ đồ luồng dữ liệu (DFD)
+Thiết kế	Tài liệu thiết kế hệ thống (System Design Document), sơ đồ lớp (Class Diagram)
+Lập trình	Mã nguồn (Source Code)
+Kiểm thử	Kịch bản kiểm thử (Test Case), báo cáo lỗi (Bug Report)
+Triển khai & Bảo trì	Gói cài đặt phần mềm (Deployment Package), nhật ký cập nhật (Change Log)
